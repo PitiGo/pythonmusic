@@ -1,2 +1,8 @@
-numpy==2.0.1
-pygame==2.6.0
+cffi==1.17.1
+ffmpeg-python==0.2.0
+future==1.0.0
+numpy==2.2.1
+pycparser==2.22
+pydub==0.25.1
+pygame==2.6.1
+soundfile==0.13.0
